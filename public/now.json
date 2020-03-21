@@ -1,0 +1,15 @@
+{
+    "version": 2,
+    "alias": "scao-weather-now",
+    "name": "weather-now",
+    "routes": [
+        {
+            "src": "^/static/(.*)",
+            "dest": "/static/$1"
+        },
+        {
+            "src": ".*",
+            "dest": "/index.html"
+        }
+    ]
+}
