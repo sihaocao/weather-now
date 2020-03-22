@@ -21,7 +21,7 @@ Enter the desired CITY of your choice in the search input field and press "ENTER
 * Reactjs
 
 ## Features
-* See a snapshot of the chosen city's temperature (in Fahrenheit) and weather condition at that time.
+* See a snapshot of the chosen city's temperature (in Fahrenheit) and weather condition at any given point in time.
 
 ## Authors
 * Sihao Cao
